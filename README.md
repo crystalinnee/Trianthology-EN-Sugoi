@@ -3,7 +3,7 @@
  THIS IS LIKELY NOT A VERY GOOD TRANSLATION! I haven't proofread it entirely at the time of posting, this is a proof of concept. 
 
 
-Based on the WIP English Patch for the 07th Expansion Game "Trianthology" by Billy, the Analog vTuber Bass, Trianthology-EN.
+Based on the WIP English Patch for the 07th Expansion Game "Trianthology" by Billy, the Analog vTuber Bass, Trianthology-EN. Lines from the original translation should be unaltered
 
 ## Installation
 
