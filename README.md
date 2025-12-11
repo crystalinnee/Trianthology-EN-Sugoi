@@ -1,3 +1,5 @@
+This is currently non-functional, this is for my own personal experimentation and lives up to no quality standards whatsoever
+ 
  Quick and dirty full patch for the 07th Expansion Game "Trianthology" based on [the repo this is forked from](https://github.com/bTuberBilly/Trianthology-EN). Game scripts extracted using the python tools here then translated using [Sugoi Toolkit](https://sugoitoolkit.com/)'s Offline file translator. 
  
  THIS IS LIKELY NOT A VERY GOOD TRANSLATION! I haven't proofread it entirely at the time of posting, this is a proof of concept. 
