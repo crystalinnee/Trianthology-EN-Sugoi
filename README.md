@@ -2,8 +2,8 @@
  
  THIS IS LIKELY NOT A VERY GOOD TRANSLATION! I haven't proofread it entirely at the time of posting, this is a proof of concept. 
 
-# Trianthology-EN
-WIP English Patch for the 07th Expansion Game "Trianthology" by Billy, the Analog vTuber Bass
+
+Based on the WIP English Patch for the 07th Expansion Game "Trianthology" by Billy, the Analog vTuber Bass, # Trianthology-EN.
 
 ## Installation
 
